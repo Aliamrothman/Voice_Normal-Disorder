@@ -1,0 +1,55 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Data/Models
+*.h5
+*.hdf5
+*.keras
+*.ckpt
+*.pb
+*.tflite
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# Audio
+*.wav
+*.mp3
+*.flac
+
+# Large files
+*.dll
+*.pyd
+*.so
+*.exe
+*.bin
+*.tar
+*.zip
+*.rar
+*.7z
+
+# Logs
+*.log
+
+# Git
+.git/
+.gitignore 
